@@ -1,4 +1,3 @@
-
 {
   "name": "hello-world-game",
   "version": "1.0.0",
@@ -14,6 +13,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^4.0.0"
+    "vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
   }
 }
